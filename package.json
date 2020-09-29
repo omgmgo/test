@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Dummy repo to test git stuff\r change the contents\r Sun Aug 21 20:28:00 PDT 2016\r Sun Aug 21 20:28:59 PDT 2016\r Sun Aug 21 20:35:26 PDT 2016\r Sun Aug 21 20:35:46 PDT 2016\r Sun Aug 21 20:38:56 PDT 2016\r Sun Aug 21 20:45:46 PDT 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omgmgo/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omgmgo/test/issues"
+  },
+  "homepage": "https://github.com/omgmgo/test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
